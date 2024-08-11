@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Peeraphat Micranuch
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my GitHub Profile
 ===========================================================================================================================================
 
-Comsci Major
+My name is Peeraphat Now I'm studying Bachelor degree of ComSci 
 ------------
 
 I've been looking for Cybersecurity Career or WebApp Development
