@@ -1,6 +1,8 @@
 <h4 align="center">⚡ EGOIST ⚡</h4>
 
-![Banner](https://i.pinimg.com/originals/86/41/a4/8641a4adec1d2b10746d02e664f6f9da.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/86/41/a4/8641a4adec1d2b10746d02e664f6f9da.gif" alt="Banner"/>
+</div>
 
 | About me 🖋️😎 | Learning 📚 |
 |-|-|
